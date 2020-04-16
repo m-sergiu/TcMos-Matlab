@@ -1,0 +1,13 @@
+A=2;
+f=100;
+N=2;
+S=1;
+I=2;
+Rg=3;
+Rs=4;
+B=0.2;
+Vp=2;
+C1=200;
+C2=200;
+Val=15;
+proiect(A,f,N,S,Rg,Rs,C1,C2,B,Vp,Val,I);
